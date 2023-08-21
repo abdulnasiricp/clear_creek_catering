@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551107488762",
+    "project_id": "clear-creek-catering-d3f78",
+    "storage_bucket": "clear-creek-catering-d3f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551107488762:android:80dbcbca34fd4c61345243",
+        "android_client_info": {
+          "package_name": "com.example.clear_creek_catering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551107488762-e2fb0580v6g10o82p4ug6a2flksspv5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4rpxXjhyXMwWZkZv5-5FaXvJOgSWBII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551107488762-e2fb0580v6g10o82p4ug6a2flksspv5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

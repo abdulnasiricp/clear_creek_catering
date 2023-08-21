@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551107488762-80p9nh99m2jj5j236ia89ramc4ns3c5j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551107488762-80p9nh99m2jj5j236ia89ramc4ns3c5j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtdzX-jg4Qt15vgz-Cwg4Ir6gguzFggCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551107488762</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clearCreekCatering</string>
+	<key>PROJECT_ID</key>
+	<string>clear-creek-catering-d3f78</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clear-creek-catering-d3f78.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551107488762:ios:b561e182ac218ed2345243</string>
+</dict>
+</plist>
